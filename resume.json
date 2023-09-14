@@ -1,0 +1,202 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
+  "meta": { "theme": "jsonresume-theme-elegant" },
+  "basics": {
+    "name": "Laura Vonessen",
+    "label": "Software engineer",
+    "image": "TODO: add image and change URL",
+    "email": "laura.s.vonessen@gmail.com",
+    "url": "https://github.com/lvonessen",
+    "summary": "I'm a software engineer passionate about designing software to work well. At Google, it was through designing and implementing usability improvements to performance testing infrastructure used across Google. At the University of Washington, it was through researching how to make accessibility a consideration from the very first classes computer science students take.",
+    "location": {
+      "city": "Seattle",
+      "countryCode": "US",
+      "region": "Washington"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "lvonessen",
+        "url": "https://github.com/lvonessen"
+      },
+      {
+        "network": "github",
+        "username": "irrationalpie7",
+        "url": "https://github.com/irrationalpie7"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Google",
+      "position": "Software engineer",
+      "url": "https://about.google/",
+      "startDate": "2019-03-25",
+      "endDate": "2022-04-01",
+      "summary": "Designed and implemented usability improvements to performance testing infrastructure used across Google",
+      "highlights": [
+        "C++",
+        "Testing infrastructure",
+        "Performance testing",
+        "API design"
+      ]
+    },
+    {
+      "name": "University of Washington",
+      "position": "Graduate Research Assistant",
+      "url": "https://www.washington.edu/",
+      "startDate": "2017-09-25",
+      "endDate": "2018-06-01",
+      "summary": "Conducted a design exploration of faculty professional development at scale, where the topic of the professional development was introducing accessibility topics into computer science courses",
+      "highlights": [
+        "Computer science education",
+        "Accessibility",
+        "Human-computer interaction",
+        "User research",
+        "Prototyping"
+      ]
+    },
+    {
+      "name": "University of Washington",
+      "position": "Graduate Teaching Assistant",
+      "url": "https://www.washington.edu/",
+      "startDate": "2016-09-25",
+      "endDate": "2018-06-01",
+      "summary": "Maintained course infrastructure, led quiz sections, held office hours, and graded",
+      "highlights": [
+        "Foundations of Computing",
+        "Software Design & Implementation",
+        "Introduction to Compilers"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization for Transformative Works",
+      "position": "Volunteer",
+      "url": "https://www.transformativeworks.org/",
+      "startDate": "2022-06-06",
+      "summary": "The OTW is responsible for AO3, an online archive of over 11 million fanworks. It also has an extensive tagging system, from which I've learned a lot about databases.",
+      "highlights": ["Ruby on Rails", "Gherkin", "HTML", "CSS", "Databases"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "url": "https://www.washington.edu/",
+      "area": "Computer Science (Human-Computer Interaction)",
+      "studyType": "Master's",
+      "startDate": "2016-09-01",
+      "endDate": "2018-06-01",
+      "courses": [
+        "Research design",
+        "Statistical methods in CS",
+        "Design & analysis of algorithms",
+        "Human-computer interaction (HCI)",
+        "Programming languages",
+        "Security & privacy"
+      ]
+    },
+    {
+      "institution": "University of Arizona",
+      "url": "https://www.arizona.edu/",
+      "area": "Computer Science & Math",
+      "studyType": "Bachelor",
+      "startDate": "2012-09-01",
+      "endDate": "2016-05-01",
+      "scoreFake": "4.0",
+      "courses": ["Magna cum laude", "Minor in French"]
+    },
+    {
+      "institution": "Karlsruhe Institute of Technology",
+      "url": "https://www.kit.edu/english/index.php",
+      "area": "Computer Science & Math",
+      "studyType": "Bachelor exchange student",
+      "startDate": "2014-10-01",
+      "endDate": "2015-07-01"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Teaching Accessibility: A Design Exploration of Faculty Professional Development at Scale",
+      "publisher": "Symposium on Computer Science Education (SIGCSE '19)",
+      "releaseDate": "2019-02-22",
+      "url": "https://doi.org/10.1145/3287324.3287399",
+      "summary": "Saba Kawas, Laura Vonessen, and Amy J. Ko"
+    },
+    {
+      "name": "Understanding the Needs of Searchers with Dyslexia",
+      "publisher": "CHI Conference on Human Factors in Computing Systems (CHI '18)",
+      "releaseDate": "2018-04-19",
+      "url": "https://doi.org/10.1145/3173574.3173609",
+      "summary": "Meredith Ringel Morris, Adam Fourney, Abdullah Ali, and Laura Vonessen"
+    },
+    {
+      "name": "Towards domain-specific semantic relatedness: a case study from geography",
+      "publisher": "International Conference on Artificial Intelligence (IJCAI'15)",
+      "releaseDate": "2015-07-25",
+      "url": "https://dl.acm.org/doi/abs/10.5555/2832415.2832577",
+      "summary": "Shilad Sen, Isaac Johnson, Rebecca Harper, Huy Mai, Samuel Horlbeck Olsen, Benjamin Mathers, Laura Souza Vonessen, Matthew Wright, and Brent Hecht"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Teamwork values",
+      "level": "Proficient",
+      "keywords": [
+        "Communication",
+        "Actionable feedback",
+        "Technical writing",
+        "Learning"
+      ]
+    },
+    {
+      "name": "Technical interests",
+      "level": "Proficient",
+      "keywords": [
+        "Testing infrastructure",
+        "Compilers",
+        "Algorithm design",
+        "Data structure design"
+      ]
+    },
+    {
+      "name": "Development",
+      "level": "Proficient",
+      "keywords": ["C++", "JavaScript", "TypeScript", "HTML", "CSS"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Making music",
+      "keywords": ["Viola", "Voice"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AO3 Podfic Posting Helper",
+      "startDate": "2021-05-22",
+      "description": "A browser extension which streamlines the workflow for posting a new podfic on Archive of Our Own by importing metadata, such as tags and rating, into the new work form.",
+      "highlights": ["HTML", "CSS", "JavaScript"],
+      "url": "https://lazycats.dev/"
+    }
+  ]
+}
